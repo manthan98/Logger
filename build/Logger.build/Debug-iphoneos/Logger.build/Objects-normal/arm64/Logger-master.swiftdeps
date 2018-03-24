@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "6eb3191b68454269c81a15530ec75c24"
+build_time: [1521854299, 887879000]
+inputs:
+  "/Users/manthan/Desktop/Logger/Logger/Logger.swift": [1521854293, 0]

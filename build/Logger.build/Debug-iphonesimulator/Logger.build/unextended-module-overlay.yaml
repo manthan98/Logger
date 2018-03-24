@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/manthan/Library/Developer/Xcode/DerivedData/Logger-ezaeacadqhqwmlarntedkhdwbglv/Build/Products/Debug-iphonesimulator/Logger.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/manthan/Desktop/Logger/build/Logger.build/Debug-iphonesimulator/Logger.build/unextended-module.modulemap',
+    }]
+  }]
+}
